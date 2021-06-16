@@ -28,3 +28,8 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 
 * Scaling Vision Transformers: ‘As a result, we successfully train a ViT model with two billion parameters, which attains a new state-of-the-art on ImageNet of 90.45% top-1 accuracy. The model also performs well on few-shot learning, for example, attaining 84.86% top-1 accuracy on ImageNet with only 10 examples per class.’
 https://arxiv.org/abs/2106.04560
+
+
+## Social Media Analysis
+
+* Birds of the Same Feather Tweet Together. Bayesian Ideal Point Estimation Using Twitter Data. Analysis of homophily of Politicians on Twitter. http://pablobarbera.com/static/barbera_twitter_ideal_points.pdf
