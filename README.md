@@ -34,3 +34,4 @@ https://arxiv.org/abs/2106.04560
 ## Social Media Analysis
 
 * Birds of the Same Feather Tweet Together. Bayesian Ideal Point Estimation Using Twitter Data. Analysis of homophily of Politicians on Twitter. http://pablobarbera.com/static/barbera_twitter_ideal_points.pdf
+* Leadership Communication and Power: Measuring Leadership in the U.S. House of Representatives from Social Media Data: https://preprints.apsanet.org/engage/apsa/article-details/60c239b28214c646e0a61589
