@@ -17,3 +17,9 @@ pytorch-widedeep, deep learning for tabular data IV: Deep Learning vs LightGBM. 
 
 
 ## Auto ML
+
+
+## Computer Vision
+
+Scaling Vision Transformers: ‘As a result, we successfully train a ViT model with two billion parameters, which attains a new state-of-the-art on ImageNet of 90.45% top-1 accuracy. The model also performs well on few-shot learning, for example, attaining 84.86% top-1 accuracy on ImageNet with only 10 examples per class.’
+https://arxiv.org/abs/2106.04560
