@@ -18,8 +18,13 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 
 ### Boosting
 
+### NNs vs Kernel Methods
+
+The quest for adaptivity: exploring 
+
 ### Autoencoders
 
+RecoTour III: Variational Autoencoders for Collaborative Filtering with Mxnet and Pytorch: https://jrzaurin.github.io/infinitoml/2020/05/15/mult-vae.html
 
 ## Auto ML
 
