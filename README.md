@@ -1,6 +1,6 @@
 # ML Resources
 
-GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it with links to articles, libraries, and otehr resources that I come across. 
+GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it with links to articles, libraries, and other resources that I come across. 
 
 
 ## Tabular Data ML
