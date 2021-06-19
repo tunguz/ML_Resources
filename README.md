@@ -34,6 +34,8 @@ vecstack is a handy little library that implements the stacking transformations 
 
 RecoTour III: Variational Autoencoders for Collaborative Filtering with Mxnet and Pytorch: https://jrzaurin.github.io/infinitoml/2020/05/15/mult-vae.html
 
+### Hyperparameter Tuning
+
 ## Auto ML
 
 * Automated Machine Learning: Methods, Systems, Challenges. Probably the single best monograph on AutoML. Published in 2019, so not quite the cutting edge, but still very useful. https://www.amazon.com/Automated-Machine-Learning-Challenges-Springer-ebook/dp/B07S3MLGFW/
