@@ -26,6 +26,10 @@ Every Model Learned by Gradient Descent Is Approximately a Kernel Machine: https
 
 The quest for adaptivity: exploring 
 
+### Stacking
+
+vecstack is a handy little library that implements the stacking transformations with your train and test data. It has both the functional interface and the sklearn fit transform interface: https://github.com/vecxoz/vecstack
+
 ### Autoencoders
 
 RecoTour III: Variational Autoencoders for Collaborative Filtering with Mxnet and Pytorch: https://jrzaurin.github.io/infinitoml/2020/05/15/mult-vae.html
