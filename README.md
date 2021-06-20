@@ -54,3 +54,9 @@ https://arxiv.org/abs/2106.04560
 ## Policy
 
 * Final Report: National Security Commission on Artificial Intelligence https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf
+
+## ML Competition Platforms
+
+* Kaggle: https://www.kaggle.com
+* Eval AI: https://eval.ai
+* Zindi: https://zindi.africa
