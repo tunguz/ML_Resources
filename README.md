@@ -24,7 +24,7 @@ Every Model Learned by Gradient Descent Is Approximately a Kernel Machine: https
 
 ### NNs vs Kernel Methods
 
-The quest for adaptivity: exploring 
+The quest for adaptivity: exploring https://francisbach.com/quest-for-adaptivity/
 
 ### Stacking
 
