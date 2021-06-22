@@ -63,3 +63,4 @@ https://arxiv.org/abs/2106.04560
 * Eval AI: https://eval.ai
 * Zindi: https://zindi.africa
 * Driven Data: https://www.drivendata.org
+* Codalab: https://competitions.codalab.org/
