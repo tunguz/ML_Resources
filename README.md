@@ -16,6 +16,7 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 * SAINT: Improved Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training: https://github.com/somepago/saint (repo)
 * SAINT paper: https://arxiv.org/abs/2106.01342
 * Regularization is all you Need: Simple Neural Nets can Excel on Tabular Data https://arxiv.org/abs/2106.11189
+* Revisiting Deep Learning Models for Tabular Data: https://arxiv.org/abs/2106.11959v1
 
 ### Boosting
 
