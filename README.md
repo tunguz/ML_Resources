@@ -64,3 +64,9 @@ https://arxiv.org/abs/2106.04560
 * Zindi: https://zindi.africa
 * Driven Data: https://www.drivendata.org
 * Codalab: https://competitions.codalab.org/
+
+# Other Resources
+
+## Blockchain
+
+A from-scratch tour of Bitcoin in Python http://karpathy.github.io/2021/06/21/blockchain/
