@@ -24,7 +24,7 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 
 ### Neural Networks - General
 
-Every Model Learned by Gradient Descent Is Approximately a Kernel Machine: https://arxiv.org/abs/2012.00152
+* Every Model Learned by Gradient Descent Is Approximately a Kernel Machine: https://arxiv.org/abs/2012.00152
 
 ### NNs vs Kernel Methods
 
