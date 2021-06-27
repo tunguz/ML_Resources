@@ -38,6 +38,7 @@ vecstack is a handy little library that implements the stacking transformations 
 
 * RecoTour III: Variational Autoencoders for Collaborative Filtering with Mxnet and Pytorch: https://jrzaurin.github.io/infinitoml/2020/05/15/mult-vae.html
 * Michael Jahrer's famous Porto Seguro Kaggle competition solution: https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/44629
+* Kaggle Tabular Playground Series 2021 - 1st place solution writeup: https://www.kaggle.com/c/tabular-playground-series-feb-2021/discussion/222745
 
 ### Hyperparameter Tuning
 
