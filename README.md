@@ -74,4 +74,8 @@ https://arxiv.org/abs/2106.04560
 
 ## Blockchain
 
-A from-scratch tour of Bitcoin in Python http://karpathy.github.io/2021/06/21/blockchain/
+* A from-scratch tour of Bitcoin in Python http://karpathy.github.io/2021/06/21/blockchain/
+
+## Installation Guides
+
+* Install CUDA 11.2, cuDNN 8.1.0, PyTorch v1.8.0 (or v1.9.0), and python 3.9 on RTX3090 for deep learning https://medium.com/analytics-vidhya/install-cuda-11-2-cudnn-8-1-0-and-python-3-9-on-rtx3090-for-deep-learning-fcf96c95f7a1
