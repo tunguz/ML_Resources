@@ -28,7 +28,7 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 
 ### NNs vs Kernel Methods
 
-The quest for adaptivity: exploring https://francisbach.com/quest-for-adaptivity/
+* The quest for adaptivity: exploring https://francisbach.com/quest-for-adaptivity/
 
 ### Stacking
 
