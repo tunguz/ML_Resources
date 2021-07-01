@@ -42,6 +42,8 @@ vecstack is a handy little library that implements the stacking transformations 
 
 ### Hyperparameter Tuning
 
+* hyperopt-sklearn: https://github.com/hyperopt/hyperopt-sklearn
+
 ## Auto ML
 
 * Automated Machine Learning: Methods, Systems, Challenges. Probably the single best monograph on AutoML. Published in 2019, so not quite the cutting edge, but still very useful. https://www.amazon.com/Automated-Machine-Learning-Challenges-Springer-ebook/dp/B07S3MLGFW/
