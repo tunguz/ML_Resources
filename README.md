@@ -40,14 +40,16 @@ vecstack is a handy little library that implements the stacking transformations 
 * Michael Jahrer's famous Porto Seguro Kaggle competition solution: https://www.kaggle.com/c/porto-seguro-safe-driver-prediction/discussion/44629
 * Kaggle Tabular Playground Series 2021 - 1st place solution writeup: https://www.kaggle.com/c/tabular-playground-series-feb-2021/discussion/222745
 
-### Hyperparameter Tuning
-
-* hyperopt-sklearn: https://github.com/hyperopt/hyperopt-sklearn
 
 ## Auto ML
 
 * Automated Machine Learning: Methods, Systems, Challenges. Probably the single best monograph on AutoML. Published in 2019, so not quite the cutting edge, but still very useful. https://www.amazon.com/Automated-Machine-Learning-Challenges-Springer-ebook/dp/B07S3MLGFW/
 * H2O Driverless AI documentation: https://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/index.html
+
+### Hyperparameter Tuning
+
+* hyperopt-sklearn: https://github.com/hyperopt/hyperopt-sklearn
+
 
 ## Computer Vision
 
