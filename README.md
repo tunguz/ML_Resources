@@ -17,6 +17,7 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 * SAINT paper: https://arxiv.org/abs/2106.01342
 * Regularization is all you Need: Simple Neural Nets can Excel on Tabular Data https://arxiv.org/abs/2106.11189
 * Revisiting Deep Learning Models for Tabular Data: https://arxiv.org/abs/2106.11959v1
+* TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data: https://arxiv.org/abs/2005.08314v1
 
 ### Boosting
 
