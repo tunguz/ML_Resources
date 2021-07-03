@@ -77,6 +77,10 @@ https://arxiv.org/abs/2106.04560
 
 # Other Resources
 
+## Knowledge Graphs
+
+* NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs: https://arxiv.org/abs/2106.12144v1
+
 ## Blockchain
 
 * A from-scratch tour of Bitcoin in Python http://karpathy.github.io/2021/06/21/blockchain/
