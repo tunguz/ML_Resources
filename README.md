@@ -48,6 +48,7 @@ vecstack is a handy little library that implements the stacking transformations 
 * Towards Automated Machine Learning: Evaluation and Comparison of AutoML Approaches and Tools: https://arxiv.org/abs/1908.05557
 * H2O Driverless AI documentation: https://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/index.html
 * AutoML: A Survey of the State-of-the-Art: https://arxiv.org/abs/1908.00709
+* Can AutoML outperform humans? An evaluation on popular OpenML datasets using AutoML Benchmark: https://arxiv.org/abs/2009.01564
 
 ### Hyperparameter Tuning
 
