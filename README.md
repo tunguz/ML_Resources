@@ -33,7 +33,7 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 
 ### Stacking
 
-vecstack is a handy little library that implements the stacking transformations with your train and test data. It has both the functional interface and the sklearn fit transform interface: https://github.com/vecxoz/vecstack
+* vecstack is a handy little library that implements the stacking transformations with your train and test data. It has both the functional interface and the sklearn fit transform interface: https://github.com/vecxoz/vecstack
 
 ### Autoencoders
 
@@ -51,11 +51,11 @@ vecstack is a handy little library that implements the stacking transformations 
 * AutoML: A Survey of the State-of-the-Art: https://arxiv.org/abs/1908.00709
 * Can AutoML outperform humans? An evaluation on popular OpenML datasets using AutoML Benchmark: https://arxiv.org/abs/2009.01564
 
-### Software
+### Auto ML Software
 
 * H2O Driverless AI documentation: https://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/index.html
 
-### Hyperparameter Tuning
+### Hyperparameter Tuning Software
 
 * hyperopt-sklearn: https://github.com/hyperopt/hyperopt-sklearn
 
