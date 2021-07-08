@@ -66,6 +66,10 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 * Scaling Vision Transformers: ‘As a result, we successfully train a ViT model with two billion parameters, which attains a new state-of-the-art on ImageNet of 90.45% top-1 accuracy. The model also performs well on few-shot learning, for example, attaining 84.86% top-1 accuracy on ImageNet with only 10 examples per class.’
 https://arxiv.org/abs/2106.04560
 
+## NLP
+
+* Evaluating Large Language Models Trained on Code: https://arxiv.org/abs/2107.03374
+
 
 ## Social Media Analysis
 
