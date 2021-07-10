@@ -70,6 +70,10 @@ https://arxiv.org/abs/2106.04560
 
 * Evaluating Large Language Models Trained on Code: https://arxiv.org/abs/2107.03374
 
+## RecSys
+
+* Boosting algorithms for a session-based, context-aware recommender system in an online travel domain: https://doi-org.stanford.idm.oclc.org/10.1145/3359555.3359557
+
 
 ## Social Media Analysis
 
