@@ -71,6 +71,7 @@ https://arxiv.org/abs/2106.04560
 ## NLP
 
 * Evaluating Large Language Models Trained on Code: https://arxiv.org/abs/2107.03374
+* How exactly does word 2 vec work? https://www.semanticscholar.org/paper/How-exactly-does-word-2-vec-work-Meyer/49edbe35390224dc0c19aefe4eb28312e70b7e79
 
 ## RecSys
 
