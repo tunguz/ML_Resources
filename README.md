@@ -9,7 +9,7 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 
 * Tabular Data: Deep Learning is Not All You Need: https://arxiv.org/abs/2106.03253
 
-###  NNs for Tabular Data
+### NNs for Tabular Data
 
 * pytorch-widedeep, deep learning for tabular data IV: Deep Learning vs LightGBM. A thorough comparison between DL algorithms and LightGBM for tabular data for classification and regression problems: https://jrzaurin.github.io/infinitoml/2021/05/28/pytorch-widedeep_iv.html
 
