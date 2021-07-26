@@ -113,3 +113,7 @@ https://arxiv.org/abs/2106.04560
 ## Installation Guides
 
 * Install CUDA 11.2, cuDNN 8.1.0, PyTorch v1.8.0 (or v1.9.0), and python 3.9 on RTX3090 for deep learning https://medium.com/analytics-vidhya/install-cuda-11-2-cudnn-8-1-0-and-python-3-9-on-rtx3090-for-deep-learning-fcf96c95f7a1
+
+## Self drivign vehicles
+
+* Autonomy 2.0: Why is self-driving always 5 years away? https://arxiv.org/abs/2107.08142v1
