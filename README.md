@@ -32,6 +32,10 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 
 * The quest for adaptivity: exploring https://francisbach.com/quest-for-adaptivity/
 
+### Ensembling
+
+* Automatic Frankensteining: Creating Complex Ensembles Autonomously: https://epubs.siam.org/doi/abs/10.1137/1.9781611974973.83
+
 ### Stacking
 
 * vecstack is a handy little library that implements the stacking transformations with your train and test data. It has both the functional interface and the sklearn fit transform interface: https://github.com/vecxoz/vecstack
