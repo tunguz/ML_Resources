@@ -47,6 +47,11 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 * Kaggle Tabular Playground Series February 2021 - 1st place solution writeup: https://www.kaggle.com/c/tabular-playground-series-feb-2021/discussion/222745
 
 
+### Shapeley Values
+
+* The Shapley Taylor Interaction Index: https://arxiv.org/abs/1902.05622
+
+
 ## Auto ML
 
 ### Books and Articles
