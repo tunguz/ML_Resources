@@ -3,6 +3,11 @@
 GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it with links to articles, libraries, and other resources that I come across. 
 
 
+## General ML Resources
+
+* How to avoid machine learning pitfalls: a guide for academic researcher: https://arxiv.org/pdf/2108.02497.pdf
+
+
 ## Tabular Data ML
 
 ### General
