@@ -72,6 +72,7 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 
 ### Hyperparameter Tuning Software
 
+* Hyperopt: https://github.com/hyperopt/hyperopt
 * hyperopt-sklearn: https://github.com/hyperopt/hyperopt-sklearn
 * Optuna: https://optuna.readthedocs.io/en/stable/
 * Uber Turbo: https://github.com/uber-research/TuRBO
