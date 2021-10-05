@@ -96,6 +96,10 @@ https://arxiv.org/abs/2106.04560
 
 * Boosting algorithms for a session-based, context-aware recommender system in an online travel domain: https://doi-org.stanford.idm.oclc.org/10.1145/3359555.3359557
 
+## ML applications in Natural Sciences
+
+* Skilful precipitation nowcasting using deep generative models of radar: https://www.nature.com/articles/s41586-021-03854-z
+
 
 ## Social Media Analysis
 
