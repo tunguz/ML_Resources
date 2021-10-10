@@ -91,6 +91,7 @@ https://arxiv.org/abs/2106.04560
 * How exactly does word 2 vec work? https://www.semanticscholar.org/paper/How-exactly-does-word-2-vec-work-Meyer/49edbe35390224dc0c19aefe4eb28312e70b7e79
 * Attention Is All You Need: https://arxiv.org/abs/1706.03762
 * Big Bird: Transformers for Longer Sequences: https://arxiv.org/abs/2007.14062
+* Fast WordPiece Tokenization: https://arxiv.org/abs/2012.15524
 
 ## RecSys
 
