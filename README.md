@@ -92,6 +92,7 @@ https://arxiv.org/abs/2106.04560
 * Attention Is All You Need: https://arxiv.org/abs/1706.03762
 * Big Bird: Transformers for Longer Sequences: https://arxiv.org/abs/2007.14062
 * Fast WordPiece Tokenization: https://arxiv.org/abs/2012.15524
+* A Recipe For Arbitrary Text Style Transfer with Large Language Models: https://arxiv.org/abs/2109.03910
 
 ## RecSys
 
