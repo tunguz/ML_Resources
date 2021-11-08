@@ -102,6 +102,7 @@ https://arxiv.org/abs/2106.04560
 ## ML applications in Natural Sciences
 
 * Skilful precipitation nowcasting using deep generative models of radar: https://www.nature.com/articles/s41586-021-03854-z
+* Predictive models of RNA degradation through dual crowdsourcing: https://arxiv.org/abs/2110.07531
 
 
 ## Social Media Analysis
