@@ -95,6 +95,7 @@ https://arxiv.org/abs/2106.04560
 * Big Bird: Transformers for Longer Sequences: https://arxiv.org/abs/2007.14062
 * Fast WordPiece Tokenization: https://arxiv.org/abs/2012.15524
 * A Recipe For Arbitrary Text Style Transfer with Large Language Models: https://arxiv.org/abs/2109.03910
+* How much do language models copy from their training data? Evaluating linguistic novelty in text generation using RAVEN: https://arxiv.org/abs/2111.09509
 
 ## RecSys
 
