@@ -100,6 +100,7 @@ https://arxiv.org/abs/2106.04560
 ## RecSys
 
 * Boosting algorithms for a session-based, context-aware recommender system in an online travel domain: https://doi-org.stanford.idm.oclc.org/10.1145/3359555.3359557
+* How Sensitive is Recommendation Systems’ Offline Evaluation to Popularity? https://core.ac.uk/download/pdf/296221513.pdf
 
 ## ML applications in Natural Sciences
 
