@@ -117,6 +117,10 @@ https://arxiv.org/abs/2106.04560
 
 * Final Report: National Security Commission on Artificial Intelligence https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf
 
+## Mathematics
+
+* Exploring the beauty of pure mathematics in novel ways https://deepmind.com/blog/article/exploring-the-beauty-of-pure-mathematics-in-novel-ways
+
 ## ML Competition Platforms
 
 * Kaggle: https://www.kaggle.com
