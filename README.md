@@ -121,6 +121,10 @@ https://arxiv.org/abs/2106.04560
 
 * Exploring the beauty of pure mathematics in novel ways https://deepmind.com/blog/article/exploring-the-beauty-of-pure-mathematics-in-novel-ways
 
+## Bilogy
+
+* Highly accurate protein structure prediction with AlphaFold: https://www.nature.com/articles/s41586-021-03819-2&usg=AOvVaw1E7Lg3LJM83zppyQrmPACx
+
 ## ML Competition Platforms
 
 * Kaggle: https://www.kaggle.com
