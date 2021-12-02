@@ -123,7 +123,7 @@ https://arxiv.org/abs/2106.04560
 
 ## Bilogy
 
-* Highly accurate protein structure prediction with AlphaFold: https://www.nature.com/articles/s41586-021-03819-2&usg=AOvVaw1E7Lg3LJM83zppyQrmPACx
+* AlphaFold: a solution to a 50-year-old grand challenge in biology: https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology
 
 ## ML Competition Platforms
 
