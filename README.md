@@ -1,3 +1,9 @@
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/discussion)
+
+
 # ML Resources
 
 GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it with links to articles, libraries, and other resources that I come across. Hopeing for more or less regular, ongoing updates.
