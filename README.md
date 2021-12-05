@@ -1,8 +1,3 @@
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/discussion)
-
 
 # ML Resources
 
@@ -160,3 +155,8 @@ https://arxiv.org/abs/2106.04560
 ## Self drivign vehicles
 
 * Autonomy 2.0: Why is self-driving always 5 years away? https://arxiv.org/abs/2107.08142v1
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/discussion)
