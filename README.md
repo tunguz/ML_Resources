@@ -145,9 +145,6 @@ https://arxiv.org/abs/2106.04560
 
 * Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author): https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full
 
-## Blockchain
-
-* A from-scratch tour of Bitcoin in Python http://karpathy.github.io/2021/06/21/blockchain/
 
 ## Installation Guides
 
