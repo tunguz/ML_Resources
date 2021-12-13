@@ -1,7 +1,7 @@
 
 # ML Resources
 
-GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it with links to articles, libraries, and other resources that I come across. Hopeing for more or less regular, ongoing updates.
+GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it with links to articles, libraries, and other resources that I come across. Hoping for more or less regular, ongoing updates.
 
 
 ## General ML Resources
