@@ -58,6 +58,10 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 
 * The Shapley Taylor Interaction Index: https://arxiv.org/abs/1902.05622
 
+### Adversarila Validation
+
+* Adversarial Validation Approach to Concept Drift Problem in User Targeting Automation Systems at Uber: https://arxiv.org/abs/2004.03045
+
 
 ## Auto ML
 
