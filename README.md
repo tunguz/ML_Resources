@@ -105,6 +105,7 @@ https://arxiv.org/abs/2106.04560
 * A Recipe For Arbitrary Text Style Transfer with Large Language Models: https://arxiv.org/abs/2109.03910
 * How much do language models copy from their training data? Evaluating linguistic novelty in text generation using RAVEN: https://arxiv.org/abs/2111.09509
 * Transformers from Scratch: https://e2eml.school/transformers.html
+* Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model: https://arxiv.org/abs/2201.11990
 
 ## RecSys
 
