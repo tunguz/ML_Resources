@@ -153,6 +153,10 @@ https://arxiv.org/abs/2106.04560
 
 * Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author): https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full
 
+## Quantum Computing
+
+TensorFlow Quantum: A Software Framework for Quantum Machine Learning: https://arxiv.org/abs/2003.02989
+
 
 ## Installation Guides
 
