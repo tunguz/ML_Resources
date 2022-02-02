@@ -129,7 +129,8 @@ https://arxiv.org/abs/2106.04560
 
 ## Mathematics
 
-* Exploring the beauty of pure mathematics in novel ways https://deepmind.com/blog/article/exploring-the-beauty-of-pure-mathematics-in-novel-ways
+* Exploring the beauty of pure mathematics in novel ways: https://deepmind.com/blog/article/exploring-the-beauty-of-pure-mathematics-in-novel-ways
+* Formal Mathematics Statement Curriculum Learning: https://openai.com/blog/formal-math/
 
 ## Bilogy
 
