@@ -93,6 +93,7 @@ https://www.sciencedirect.com/science/article/pii/S0169207021001679
 https://arxiv.org/abs/2106.04560
 * Revisiting ResNets: Improved Training and Scaling Strategies: https://arxiv.org/abs/2103.07579
 * Diffusion Models Beat GANs on Image Synthesis: https://arxiv.org/abs/2105.05233
+* Progressive Distillation for Fast Sampling of Diffusion Models: https://arxiv.org/abs/2202.00512
 
 
 ## NLP
