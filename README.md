@@ -98,7 +98,6 @@ https://arxiv.org/abs/2106.04560
 
 ## NLP
 
-* Evaluating Large Language Models Trained on Code: https://arxiv.org/abs/2107.03374
 * How exactly does word 2 vec work? https://www.semanticscholar.org/paper/How-exactly-does-word-2-vec-work-Meyer/49edbe35390224dc0c19aefe4eb28312e70b7e79
 * Attention Is All You Need: https://arxiv.org/abs/1706.03762
 * Big Bird: Transformers for Longer Sequences: https://arxiv.org/abs/2007.14062
@@ -161,6 +160,7 @@ https://arxiv.org/abs/2106.04560
 
 ## Code Generation
 
+* Evaluating Large Language Models Trained on Code: https://arxiv.org/abs/2107.03374
 * Competition-Level Code Generation with AlphaCode: https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode
 
 ## Installation Guides
