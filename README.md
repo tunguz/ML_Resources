@@ -157,11 +157,11 @@ https://arxiv.org/abs/2106.04560
 
 ## Quantum Computing
 
-TensorFlow Quantum: A Software Framework for Quantum Machine Learning: https://arxiv.org/abs/2003.02989
+* TensorFlow Quantum: A Software Framework for Quantum Machine Learning: https://arxiv.org/abs/2003.02989
 
 ## Code Generation
 
-Competition-Level Code Generation with AlphaCode: https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode
+* Competition-Level Code Generation with AlphaCode: https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode
 
 ## Installation Guides
 
