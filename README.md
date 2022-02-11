@@ -33,6 +33,7 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 https://www.sciencedirect.com/science/article/pii/S0169207021001679
 * XGboost documentation: https://xgboost.readthedocs.io/en/latest/
 * Introduction to Boosted Trees: https://web.njit.edu/~usman/courses/cs675_spring20/BoostedTree.pdf
+* Classification with TensorFlow Decision Forests: https://keras.io/examples/structured_data/classification_with_tfdf/
 
 ### Neural Networks - General
 
