@@ -32,6 +32,7 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 * Januschowski, Tim, et al. "Forecasting with trees." International Journal of Forecasting (2021)
 https://www.sciencedirect.com/science/article/pii/S0169207021001679
 * XGboost documentation: https://xgboost.readthedocs.io/en/latest/
+* Introduction to Boosted Trees: https://web.njit.edu/~usman/courses/cs675_spring20/BoostedTree.pdf
 
 ### Neural Networks - General
 
