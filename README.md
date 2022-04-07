@@ -27,7 +27,7 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 * TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data: https://arxiv.org/abs/2005.08314v1
 * Gradient Boosting Neural Networks: GrowNet. Paper: https://arxiv.org/abs/2002.07971, Code: https://github.com/sbadirli/GrowNet
 * Structured data learning with TabTransformer: https://keras.io/examples/structured_data/tabtransformer/
-* Deep Neural Networks and Tabular Data: A Survey https://arxiv.org/pdf/2110.01889.pdf
+* Deep Neural Networks and Tabular Data: A Survey https://arxiv.org/abs/2110.01889
 
 ### Boosting
 
