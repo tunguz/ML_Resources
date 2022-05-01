@@ -36,6 +36,7 @@ https://www.sciencedirect.com/science/article/pii/S0169207021001679
 * XGboost documentation: https://xgboost.readthedocs.io/en/latest/
 * Introduction to Boosted Trees: https://web.njit.edu/~usman/courses/cs675_spring20/BoostedTree.pdf
 * Classification with TensorFlow Decision Forests: https://keras.io/examples/structured_data/classification_with_tfdf/
+* Out-of-Core GPU Gradient Boosting: https://arxiv.org/pdf/2005.09148.pdf
 
 ### Neural Networks - General
 
