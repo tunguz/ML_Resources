@@ -90,6 +90,7 @@ https://www.sciencedirect.com/science/article/pii/S0169207021001679
 * hyperopt-sklearn: https://github.com/hyperopt/hyperopt-sklearn
 * Optuna: https://optuna.readthedocs.io/en/stable/
 * Uber Turbo: https://github.com/uber-research/TuRBO
+* SMAC: https://github.com/automl/SMAC3
 
 
 ## Computer Vision
