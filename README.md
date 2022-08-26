@@ -102,6 +102,7 @@ https://arxiv.org/abs/2106.04560
 * Diffusion Models Beat GANs on Image Synthesis: https://arxiv.org/abs/2105.05233
 * Progressive Distillation for Fast Sampling of Diffusion Models: https://arxiv.org/abs/2202.00512
 * Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding: https://arxiv.org/abs/2205.11487
+* Understanding Diffusion Models: A Unified Perspective https://arxiv.org/abs/2208.11970
 
 
 ## NLP
