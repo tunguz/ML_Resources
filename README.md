@@ -15,6 +15,7 @@ GitHub Repo with various ML/AI/DS resources that I find useful. I'll populate it
 
 * Tabular Data: Deep Learning is Not All You Need: https://arxiv.org/abs/2106.03253
 * Declarative Machine Learning Systems: https://arxiv.org/abs/2107.08148
+* Why every GBDT speed benchmark is wrong: https://openreview.net/pdf?id=ryexWdLRtm
 
 ### NNs for Tabular Data
 
