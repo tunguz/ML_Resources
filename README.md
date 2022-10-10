@@ -188,6 +188,10 @@ https://arxiv.org/abs/2106.04560
 
 * Autonomy 2.0: Why is self-driving always 5 years away? https://arxiv.org/abs/2107.08142v1
 
+## ML Chips and Hardware
+
+* Tree-based machine learning performed in-memory with memristive analog CAM: https://www.nature.com/articles/s41467-021-25873-0
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/notebook)
