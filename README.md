@@ -148,6 +148,7 @@ https://arxiv.org/abs/2106.04560
 
 * Exploring the beauty of pure mathematics in novel ways: https://deepmind.com/blog/article/exploring-the-beauty-of-pure-mathematics-in-novel-ways
 * Formal Mathematics Statement Curriculum Learning: https://openai.com/blog/formal-math/
+* Discovering faster matrix multiplication algorithms with reinforcement learning: https://www.nature.com/articles/s41586-022-05172-4
 
 ## Bilogy
 
