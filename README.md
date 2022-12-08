@@ -40,6 +40,7 @@ https://www.sciencedirect.com/science/article/pii/S0169207021001679
 * Classification with TensorFlow Decision Forests: https://keras.io/examples/structured_data/classification_with_tfdf/
 * Out-of-Core GPU Gradient Boosting: https://arxiv.org/pdf/2005.09148.pdf
 * Adaptive XGBoost for Evolving Data Streams: https://arxiv.org/abs/2005.07353
+* SketchBoost: Fast Gradient Boosted Decision Tree for Multioutput Problems: https://openreview.net/forum?id=WSxarC8t-T
 
 ### Neural Networks - General
 
