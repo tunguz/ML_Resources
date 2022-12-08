@@ -119,6 +119,7 @@ https://arxiv.org/abs/2106.04560
 * Transformers from Scratch: https://e2eml.school/transformers.html
 * Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model: https://arxiv.org/abs/2201.11990
 * Formal Algorithms for Transformers: https://arxiv.org/abs/2207.09238
+* BLOOM: A 176B-Parameter Open-Access Multilingual Language Model: https://arxiv.org/abs/2211.05100
 
 ## RecSys
 
