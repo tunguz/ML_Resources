@@ -158,7 +158,7 @@ https://arxiv.org/abs/2106.04560
 * Formal Mathematics Statement Curriculum Learning: https://openai.com/blog/formal-math/
 * Discovering faster matrix multiplication algorithms with reinforcement learning: https://www.nature.com/articles/s41586-022-05172-4
 
-## Bilogy
+## Biology
 
 * AlphaFold: a solution to a 50-year-old grand challenge in biology: https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology
 
@@ -169,6 +169,7 @@ https://arxiv.org/abs/2106.04560
 * Zindi: https://zindi.africa
 * Driven Data: https://www.drivendata.org
 * Codalab: https://competitions.codalab.org/
+* AIcrowd: https://www.aicrowd.com/
 
 # Other Resources
 
@@ -193,7 +194,7 @@ https://arxiv.org/abs/2106.04560
 
 * Install CUDA 11.2, cuDNN 8.1.0, PyTorch v1.8.0 (or v1.9.0), and python 3.9 on RTX3090 for deep learning https://medium.com/analytics-vidhya/install-cuda-11-2-cudnn-8-1-0-and-python-3-9-on-rtx3090-for-deep-learning-fcf96c95f7a1
 
-## Self drivign vehicles
+## Self-driving vehicles
 
 * Autonomy 2.0: Why is self-driving always 5 years away? https://arxiv.org/abs/2107.08142v1
 
