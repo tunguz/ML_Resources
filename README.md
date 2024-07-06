@@ -70,7 +70,7 @@ https://www.sciencedirect.com/science/article/pii/S0169207021001679
 
 * The Shapley Taylor Interaction Index: https://arxiv.org/abs/1902.05622
 
-### Adversarila Validation
+### Adversarial Validation
 
 * Adversarial Validation Approach to Concept Drift Problem in User Targeting Automation Systems at Uber: https://arxiv.org/abs/2004.03045
 
@@ -158,7 +158,7 @@ https://arxiv.org/abs/2106.04560
 * Formal Mathematics Statement Curriculum Learning: https://openai.com/blog/formal-math/
 * Discovering faster matrix multiplication algorithms with reinforcement learning: https://www.nature.com/articles/s41586-022-05172-4
 
-## Bilogy
+## Biology
 
 * AlphaFold: a solution to a 50-year-old grand challenge in biology: https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology
 
@@ -193,7 +193,7 @@ https://arxiv.org/abs/2106.04560
 
 * Install CUDA 11.2, cuDNN 8.1.0, PyTorch v1.8.0 (or v1.9.0), and python 3.9 on RTX3090 for deep learning https://medium.com/analytics-vidhya/install-cuda-11-2-cudnn-8-1-0-and-python-3-9-on-rtx3090-for-deep-learning-fcf96c95f7a1
 
-## Self drivign vehicles
+## Self driving vehicles
 
 * Autonomy 2.0: Why is self-driving always 5 years away? https://arxiv.org/abs/2107.08142v1
 
@@ -205,3 +205,19 @@ https://arxiv.org/abs/2106.04560
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tunguz/discussion)
+
+_(random passerby's notes: ^^ these 4 links are erroring on 7/6/2024. the entire app is 500 erroring https://github.com/subinium/kaggle-badge (see https://github.com/tunguz/ML_Resources/assets/161698650/d594d994-3461-4155-88eb-4af50011a884)
+ idk what functionality may be lost. just direct link for now? vv)_
+
+[competition](https://www.kaggle.com/tunguz/competitions)
+[dataset](https://www.kaggle.com/tunguz/dataset)
+[notebook](https://www.kaggle.com/tunguz/notebook)
+[discussion](https://www.kaggle.com/tunguz/discussion)
+
+(or similar to prior formatting)
+
+## My Kaggle Links
+competitions: https://www.kaggle.com/tunguz/competitions
+datasets: https://www.kaggle.com/tunguz/
+notebooks: https://www.kaggle.com/tunguz/code
+discussion: https://www.kaggle.com/tunguz/discussion
